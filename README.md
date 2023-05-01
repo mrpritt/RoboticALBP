@@ -1,6 +1,6 @@
 # Exact and heuristic methods for solving the robotic assembly line balancing problem
 
-This respository contains the instances used in Borba, Ritt, Miralles, [Exact and heuristic methods for solving the robotic assembly line balancing problem]().
+This respository contains the instances used in Borba, Ritt, Miralles, [Exact and heuristic methods for solving the robotic assembly line balancing problem, Eur. J. Oper. Res., 270(1):146-156, 2018](https://dx.doi.org/10.1016/j.ejor.2018.03.011).
  
 ## Abstract
 
